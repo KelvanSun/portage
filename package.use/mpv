@@ -1,1 +1,1 @@
-media-video/mpv libmpv vaapi vdpau 
+media-video/mpv libmpv vaapi vdpau drm
