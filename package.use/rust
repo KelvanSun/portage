@@ -1,0 +1,2 @@
+dev-lang/rust rustfmt rls rust-src system-llvm llvm_targets_AMDGPU
+virtual/rust rustfmt

@@ -1,0 +1,3 @@
+sys-libs/libapparmor ~amd64
+sys-apps/apparmor ~amd64
+app-containers/snapd ~amd64

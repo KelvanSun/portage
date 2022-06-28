@@ -1,0 +1,3 @@
+sys-apps/systemd apparmor
+sys-libs/libseccomp static-libs
+sys-fs/squashfs-tools lzma

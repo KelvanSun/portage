@@ -1,0 +1,13 @@
+x11-wm/mutter ~amd64
+gnome-base/gnome-shell ~amd64
+gnome-base/gnome-desktop ~amd64
+gnome-base/gnome-control-center ~amd64
+net-wireless/gnome-bluetooth ~amd64
+gnome-base/gnome-settings-daemon ~amd64
+gnome-base/gnome-keyring ~amd64
+app-editors/gnome-text-editor ~amd64
+gnome-extra/gnome-shell-extensions ~amd64
+gnome-base/nautilus ~amd64
+gnome-extra/gnome-calendar ~amd64
+x11-terms/gnome-terminal ~amd64
+app-text/evince ~amd64

@@ -1,0 +1,4 @@
+net-im/telegram-desktop -X
+media-libs/tg_owt -X
+media-video/ffmpeg opus
+sys-libs/zlib minizip
