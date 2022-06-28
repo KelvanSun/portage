@@ -1,1 +1,1 @@
-media-video/ffmpeg x265 vaapi vdpau
+media-video/ffmpeg x265 vaapi vdpau libdrm
