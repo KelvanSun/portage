@@ -1,4 +1,4 @@
-net-im/telegram-desktop -X
-media-libs/tg_owt -X
+net-im/telegram-desktop -X screencast
+media-libs/tg_owt -X screencast
 media-video/ffmpeg opus
 sys-libs/zlib minizip
