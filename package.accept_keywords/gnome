@@ -11,3 +11,4 @@ gnome-base/nautilus ~amd64
 gnome-extra/gnome-calendar ~amd64
 x11-terms/gnome-terminal ~amd64
 app-text/evince ~amd64
+gnome-extra/gnome-calculator ~amd64
