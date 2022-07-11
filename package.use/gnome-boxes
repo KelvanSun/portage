@@ -1,0 +1,4 @@
+net-misc/spice-gtk smartcard usbredir
+app-emulation/qemu spice usbredir smartcard
+net-dns/dnsmasq script
+app-emulation/spice smartcard
